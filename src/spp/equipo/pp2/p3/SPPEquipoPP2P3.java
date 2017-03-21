@@ -1,8 +1,9 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+/*Ángel Ávalos Ortega A01410325
+Alberto Isaac Gómez Jiménez A01410769
+Jorge Daniel Bombardier
+Miguel Ángel Méndez 
+Nohely Cortés del Ángel A01410768
+*/
 package spp.equipo.pp2.p3;
 import java.util.*;
 /**
